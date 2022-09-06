@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mateus!</h1>
-<h3 align="center">I love front-end, but I have a little crush for mobile</h3>
+<h3 align="center">I love front-end</h3>
 
 - I'm working at <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a>;
-- I'm learning React and Kotlin;
+- I'm learning React;
 - Focus on Web Development;
 - Contact me at <a href = "mailto: alvesmateus.ps@gmail.com">alvesmateus.ps@gmail.com</a>;
 

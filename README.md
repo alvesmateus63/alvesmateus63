@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus!</h1>
 <h3 align="center">I am a web developer </h3>
 
-- I'm working at <a href="https://codejr.com.br/" target="_blank">Code Empresa Júnior</a>;
-- I'm learning React;
+- I'm learning React and Node.JS;
 - Focus on Web Development;
 - Contact me at <a href = "mailto: alvesmateus.ps@gmail.com">alvesmateus.ps@gmail.com</a>;
 

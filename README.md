@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus!</h1>
 <h3 align="center">I am a web developer </h3>
 
-- I'm learning React and Node.JS;
+- I'm learning React Native and Node.JS;
 - Focus on Web Development;
 - Contact me at <a href = "mailto: alvesmateus.ps@gmail.com">alvesmateus.ps@gmail.com</a>;
 

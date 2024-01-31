@@ -5,7 +5,7 @@
 - I work with PHP (Symfony) and Javascript (Vue.JS)
 - Focus on Web Development
 - Contact me at <a href = "mailto: alvesmateus.ps@gmail.com">alvesmateus.ps@gmail.com</a>
-- See my website: <a href="https://alvesm.dev">Mateus Alves - Web Developer</a>
+- See my website: <a href="https://alvesm.dev" target="_blank">Mateus Alves - Web Developer</a>
 
 ## **Contact Me:**
 

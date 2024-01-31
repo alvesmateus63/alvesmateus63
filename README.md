@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Mateus!</h1>
-<h3>I am a developer </h3>
+<h3>I am a Full-Stack developer </h3>
 
-- I'm learning React Native and Node.JS;
+- I'm learning Angular;
+- I work with PHP (Symfony)
 - Focus on Web Development;
 - Contact me at <a href = "mailto: alvesmateus.ps@gmail.com">alvesmateus.ps@gmail.com</a>;
 

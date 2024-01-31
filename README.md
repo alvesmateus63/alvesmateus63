@@ -1,10 +1,11 @@
 <h1>Hi 👋, I'm Mateus!</h1>
 <h3>I am a Full-Stack developer </h3>
 
-- I'm learning Angular;
-- I work with PHP (Symfony)
-- Focus on Web Development;
-- Contact me at <a href = "mailto: alvesmateus.ps@gmail.com">alvesmateus.ps@gmail.com</a>;
+- At the moment i'm learning angular
+- I work with PHP (Symfony) and Javascript (Vue.JS)
+- Focus on Web Development
+- Contact me at <a href = "mailto: alvesmateus.ps@gmail.com">alvesmateus.ps@gmail.com</a>
+- See my website: <a href="https://alvesm.dev">Mateus Alves - Web Developer</a>
 
 ## **Contact Me:**
 
@@ -17,7 +18,7 @@
 
 **Programing Languages:**
 <div>
-  <img alt='Javascript' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt='Typescript' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
   <img alt='PHP' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img alta='Java' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
           
@@ -25,8 +26,9 @@
 
 **Front End Development:**
 <div>
+  <img alt='Angular' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt='React' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt='Next.Js' height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt='Next.Js' height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   <img alt='HTML5' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt='CSS3' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt='Bootstrap' height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -41,6 +43,7 @@
 **Database:**
 <div>
   <img alt='MySql' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt='Postgres' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />  
 </div>
 
 **Software:**
